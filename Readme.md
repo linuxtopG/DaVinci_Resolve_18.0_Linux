@@ -35,6 +35,10 @@ DaVinci Resolve 18 is a major release featuring cloud-based collaboration, new A
 *   ![MakeResolveDeb](https://www.danieltufvesson.com/images/header_makeresolvedeb.png)
                        [![Download MakeResolveDeb](https://imgs.search.brave.com/pVXskIw0IVeW_aJCZPFm_gSfHjLTpaYtj49kUkF-8X8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNi8w/Mi8wOC8xOS81Mi9i/dXR0b24tMTE4NzQ2/MF82NDAucG5n)](https://www.danieltufvesson.com/download/?file=makeresolvedeb/makeresolvedeb_1.9.0_multi.sh.tar.gz)
 
+
+[![Install DaVinci Resolve 18 On Debian](https://youtu.be/uxdyC3h5zbY)](https://youtu.be/uxdyC3h5zbY)
+
+
 Download MakeResolveDeb
 Download the latest version of the MakeResolveDeb *.tar.gz archive from this website and put it in the same directory as the Resolve installer *.zip archive.
 =====
