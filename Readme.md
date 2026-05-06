@@ -31,6 +31,9 @@ DaVinci Resolve 18 is a major release featuring cloud-based collaboration, new A
 ## 🛠 System Requirements (Linux)
 
 *   **OS:** Rocky Linux 8.6 or CentOS 7.3 (and compatible distros).
+*   **if you use any debian destro** most be install MakeResolveDeb
+*   ![MakeResolveDeb](https://www.danieltufvesson.com/images/header_makeresolvedeb.png)
+                       [![Download MakeResolveDeb](https://imgs.search.brave.com/pVXskIw0IVeW_aJCZPFm_gSfHjLTpaYtj49kUkF-8X8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNi8w/Mi8wOC8xOS81Mi9i/dXR0b24tMTE4NzQ2/MF82NDAucG5n)](https://www.danieltufvesson.com/download/?file=makeresolvedeb/makeresolvedeb_1.9.0_multi.sh.tar.gz)
 *   **RAM:** 32 GB minimum.
 *   **GPU:** Discrete GPU with at least 4GB of VRAM (NVIDIA/AMD).
 *   **Drivers:** NVIDIA Driver version 465.31 or newer.
